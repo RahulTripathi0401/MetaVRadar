@@ -1,0 +1,10 @@
+time,externalIP,domainName,TCPPktOut,TCPPktIn,TCPVolumeOut,TCPVolumeIn,UDPPktOut,UDPPktIn,UDPVolumeOut,UDPVolumeIn,AllPktOut,AllPktIn,AllVolumeOut,AllVolumeIn
+1646971990738,a.b.c.d,graph.oculus.com,2,1,134,66,0,0,0,0,2,1,134,66
+1646971990738,8.8.8.8,None,0,0,0,0,2,3,153,325,2,3,153,325
+1646971990738,a.b.c.d,time.facebook.com,0,0,0,0,1,0,90,0,1,0,90,0
+1646971991738,a.b.c.d,graph.oculus.com,58,48,26029,16448,0,0,0,0,58,48,26029,16448
+1646971991738,142.250.71.67,connectivitycheck.gstatic.com,5,5,535,402,0,0,0,0,5,5,535,402
+1646971991738,157.240.8.18,graph.facebook.com,10,7,1597,4827,0,0,0,0,10,7,1597,4827
+1646971991738,a.b.c.d,time.facebook.com,0,0,0,0,0,1,0,90,0,1,0,90
+1646971991738,8.8.8.8,None,0,0,0,0,2,2,154,275,2,2,154,275
+1646971992738,a.b.c.d,oculus.com,14,11,5833,2295,0,0,0,0,14,11,5833,2295

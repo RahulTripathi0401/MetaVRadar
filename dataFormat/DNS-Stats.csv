@@ -1,0 +1,10 @@
+time,pktSize,isInbound,srcIP,dstIP,srcPort,dstPort,isResponse,RRType,ErrorCode,queryName,answer
+1646971989639,77,Out,a.b.c.d.40,8.8.8.8,21658,53,false,A,No Error,time.facebook.com,None,,
+1646971989640,93,In,8.8.8.8,a.b.c.d.40,53,21658,true,A,No Error,time.facebook.com,129.134.26.123,,
+1646971989696,76,Out,a.b.c.d.40,8.8.8.8,42959,53,false,A,No Error,graph.oculus.com,None,,
+1646971989700,127,In,8.8.8.8,a.b.c.d.40,53,42959,true,A,No Error,graph.oculus.com,157.240.8.49,,
+1646971989782,105,In,8.8.8.8,a.b.c.d.40,53,50326,true,A,No Error,connectivitycheck.gstatic.com,142.250.71.67,,
+1646971989814,76,Out,a.b.c.d.40,8.8.8.8,18203,53,false,AAAA,No Error,graph.oculus.com,None,,
+1646971989819,139,In,8.8.8.8,a.b.c.d.40,53,18203,true,AAAA,No Error,graph.oculus.com,2a03:2880:f219:80c1:face:b00c:0:32c2,,
+1646971990220,78,Out,a.b.c.d.40,8.8.8.8,45166,53,false,A,No Error,graph.facebook.com,None,,
+1646971990224,136,In,8.8.8.8,a.b.c.d.40,53,45166,true,A,No Error,graph.facebook.com,157.240.8.18,,

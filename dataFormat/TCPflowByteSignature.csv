@@ -1,0 +1,5 @@
+StartTime,EndTime,DomainName,DomainPrefix,ServerPort,1st,2nd,3rd,Domain Type,Duration
+42260,42330,oculuscdn,scontent,443,212,126,367,Time-critical activity,70
+830297,832956,shapevrcloud,prodblobs,443,419,126,284,Time-critical activity,2659
+1118809,1122035,shapevrcloud,prodblobs,443,419,126,284,Time-critical activity,3226
+1902817,1952186,shapevrcloud,prod,443,414,126,564,Time-critical activity,49369
