@@ -1,6 +1,6 @@
 # Overview of Repository
 
-According to our claims in the paper [1], we made our source code for the ML training pipeline available in this repository. Our code that generates CSV files from PCAP files for classification model training & evaluation has been included in a commercial patent own by Canopus Networks Pty Ltd. Therefore, it will not be made publicly available in accordance with our research funding agreement.
+According to our claims in the paper [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/abs/10.1145/3626786), we made our source code for the ML training pipeline available in this repository. Our code that generates CSV files from PCAP files for classification model training & evaluation has been included in a commercial patent own by Canopus Networks Pty Ltd. Therefore, it will not be made publicly available in accordance with our research funding agreement.
 
 ### DataFormat
 
